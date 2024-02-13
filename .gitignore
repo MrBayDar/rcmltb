@@ -4,7 +4,6 @@ users
 botlog.txt
 cookies.txt
 rclone.conf
-config.env
 *.json
 *.pickle
 *.pyc
